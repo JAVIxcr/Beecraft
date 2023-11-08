@@ -295,7 +295,7 @@ customization {
   orientation = top-left
   restartbackgroundanimations = true
   delayappearanceseconds = 7.0
-  buttonaction = joinserver;103.195.103.52:25614%btnaction_splitter_fm%
+  buttonaction = joinserver;ale01.speedserver.store:25026%btnaction_splitter_fm%
   backgroundhovered = resources/boton_press.png
   label = Entrar
   loopbackgroundanimations = true
