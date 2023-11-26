@@ -17,15 +17,15 @@ customization {
 
 customization {
   orientation = top-left
-  audio_source:814a4e77-b86c-42e1-84ff-fcd19113d4f41699325757206 = resources/menu.ogg;EXTERNAL_LOCAL;50;0
   loop = true
-  channel = music
-  x = 446
+  channel = master
+  x = 444
   width = 50
   action = custom_layout_element:fancymenu_extension:audio_item
-  actionid = 808ae7b3-fcdc-48e6-8592-03b5df8d477a1699325749541
-  y = 238
+  actionid = 741a4b11-2bb8-4c56-9786-3f95844ad1401701022746596
+  y = 237
   once_per_session = false
+  audio_source:47ab8f72-b3b2-4339-a01c-b6b6f565c3511701022802982 = resources/menu.ogg;EXTERNAL_LOCAL;20;0
   height = 50
 }
 

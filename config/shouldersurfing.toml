@@ -15,7 +15,7 @@
 	limit_player_reach = true
 	#The default perspective when you load the game.
 	#Allowed Values: FIRST_PERSON, THIRD_PERSON_BACK, THIRD_PERSON_FRONT, SHOULDER_SURFING
-	default_perspective = "THIRD_PERSON_BACK"
+	default_perspective = "FIRST_PERSON"
 	#Whether or not to remember the last perspective used.
 	remember_last_perspective = true
 	#The distance multiplier on whether or not to hide the player model if the camera gets too close to it. Set to 0 to disable.

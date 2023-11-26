@@ -25,6 +25,11 @@ customization {
 }
 
 customization {
+  identifier = %id=0%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = hidebutton
 }

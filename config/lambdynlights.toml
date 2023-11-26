@@ -22,27 +22,52 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				item = true
 				chicken = true
-				stray = true
-				zombie_villager = true
+				arrow = true
+				cow = true
+				chest_minecart = true
 				slime = true
+				pig = true
 				skeleton = true
 				bat = true
 				rabbit = true
 				zombie = true
+				drowned = true
+				experience_orb = true
+				sheep = true
+				player = true
+				item = true
+				stray = true
+				salmon = true
+				zombie_villager = true
+				phantom = true
 				glow_squid = true
 				witch = true
+				cod = true
 				glow_item_frame = false
 				squid = true
 				spider = true
 				creeper = true
-				player = true
 				enderman = true
+				painting = true
+				item_frame = true
+				boat = true
 
 			[light_sources.settings.entities.naturalist]
+				robin = true
+				bass = true
+				firefly = true
 				bluejay = true
+				butterfly = true
+				duck = true
 				coral_snake = true
+				snake = true
+
+			[light_sources.settings.entities.capybara]
+				capybara = true
+
+			[light_sources.settings.entities.mcwfurnitures]
+				chair_entity = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -50,4 +75,18 @@ mode = "fancy"
 			[light_sources.settings.entities.tinyskeletons]
 				baby_stray = true
 				baby_skeleton = true
+
+			[light_sources.settings.entities.the_bumblezone]
+				bee_queen = true
+
+			[light_sources.settings.entities.crittersandcompanions]
+				otter = true
+				dragonfly = true
+				dumbo_octopus = true
+
+			[light_sources.settings.entities.duckling]
+				duck = true
+
+			[light_sources.settings.entities.mythicmounts]
+				dragon = true
 
